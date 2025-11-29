@@ -60,3 +60,5 @@ $ sudo $(which python) mini_dash_tui.py
 --------------------------------------------------
 
 <img width="1557" height="966" alt="image" src="https://github.com/user-attachments/assets/9607d241-f9e3-4244-894c-94965f1882ff" />
+<img width="1563" height="988" alt="image" src="https://github.com/user-attachments/assets/18b5cf93-7e0d-49da-80f1-a911d33a5167" />
+
