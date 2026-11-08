@@ -353,6 +353,7 @@ def run(stdscr):
             ORANGE = curses.color_pair(3) | curses.A_BOLD
 
         curses.init_pair(5, curses.COLOR_WHITE, -1)  # CPU 라벨용 흰색 볼드
+        curses.init_pair(6, curses.COLOR_WHITE, -1)
         RED    = curses.color_pair(1) | curses.A_BOLD
         GREEN  = curses.color_pair(2)
         YELLOW = curses.color_pair(3) | curses.A_BOLD
